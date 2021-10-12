@@ -1,5 +1,11 @@
 {
   "version": "0.0.0",
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "packages": [
+    "shell",
+    "mfe1",
+    "mfe2",
+    "mfe3",
+    "mfe4-react"
+  ]
 }
